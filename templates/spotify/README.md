@@ -1,5 +1,5 @@
 
-My server: 
+My server: http://students.washington.edu/borisp/info343/info343/templates/spotify/
 
 
 Boris Pavlov, #0841034,

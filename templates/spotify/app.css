@@ -1,17 +1,29 @@
+
+
 body {
-  padding:10px;
+  padding:100px;   
+  background-color: #222326;  
+  background-image: url('Spotify2back.png');
+  background-position: center; 
+  background-size: contain; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+#whiteText {
+  color: #E1E1E1;
 }
 .img {
-  margin-bottom:20px;
-  border:1px solid #d3d3d3;
-  padding:10px; 
+  margin-bottom: 20px;
+  padding:0px; 
   text-align:center;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 img {
   max-height:100%;
-  max-width:100%;
+  max-width:100%;  
   cursor:pointer;
 }
 .container-fixed {
@@ -21,5 +33,11 @@ img {
 }
 
 .playing {
-  border:5px solid lightblue;
+opacity: 0.5;
+
 }
+
+.tooltip:hover{
+  background: green;
+}
+
